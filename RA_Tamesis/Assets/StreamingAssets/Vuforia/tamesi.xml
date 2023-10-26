@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="CartaZapatero" size="1212.000000 1714.053711" />
+    <ImageTarget name="CartaMuralista" size="1212.000000 1714.053711" />
+    <ImageTarget name="CartaCocinera" size="1212.000000 1716.056030" />
+    <ImageTarget name="CartaArtesano" size="1212.000000 1716.056030" />
+    <ImageTarget name="Carta1" size="1211.000000 1711.226318" />
+  </Tracking>
+</QCARConfig>
